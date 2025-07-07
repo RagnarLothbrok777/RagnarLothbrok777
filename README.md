@@ -3,6 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=echo+%22Hello+World%22;uname+-a;whoami;sudo+make+me+a+sandwich" alt="Typing SVG" />
 </p>
 
+# New Kill List-
+## lyan-git
+## NGAyushIND
+
 <h1 align="center">👨‍💻 Linux Architect | 🐧 Kernel Enthusiast | 🛠️ Systems Whisperer</h1>
 
 ---
