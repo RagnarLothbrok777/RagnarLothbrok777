@@ -4,8 +4,8 @@
 </p>
 
 # New Kill List-
-## lyan-git
-## NGAyushIND
+## lyan-git(Killed)
+## NGAyushIND(captured)
 
 <h1 align="center">👨‍💻 Linux Architect | 🐧 Kernel Enthusiast | 🛠️ Systems Whisperer</h1>
 
